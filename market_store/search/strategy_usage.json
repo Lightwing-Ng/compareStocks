@@ -24,8 +24,8 @@
     "last_used_at": "2026-03-30T12:12:49.432152+00:00"
   },
   "supertrend_ai_gemini": {
-    "count": 165,
-    "last_used_at": "2026-04-04T13:58:58.396613+00:00"
+    "count": 167,
+    "last_used_at": "2026-04-04T15:15:12.300751+00:00"
   },
   "lorentzian-classification-chatgpt": {
     "count": 224,
@@ -40,8 +40,8 @@
     "last_used_at": "2026-04-04T13:58:41.424379+00:00"
   },
   "macd-gemini": {
-    "count": 26,
-    "last_used_at": "2026-04-04T13:58:50.819974+00:00"
+    "count": 28,
+    "last_used_at": "2026-04-04T15:15:36.397877+00:00"
   },
   "lorentzian-classification-grok": {
     "count": 14,
