@@ -4,8 +4,8 @@
     "last_used_at": "2026-03-24T06:45:11.364944+00:00"
   },
   "buy-and-hold": {
-    "count": 217,
-    "last_used_at": "2026-04-03T12:20:23.233856+00:00"
+    "count": 221,
+    "last_used_at": "2026-04-04T12:27:03.914452+00:00"
   },
   "macd": {
     "count": 37,
@@ -28,16 +28,16 @@
     "last_used_at": "2026-04-03T11:59:41.134796+00:00"
   },
   "lorentzian-classification-chatgpt": {
-    "count": 203,
-    "last_used_at": "2026-04-02T01:29:40.021325+00:00"
+    "count": 205,
+    "last_used_at": "2026-04-04T13:11:09.178654+00:00"
   },
   "lorentzian-classification-gemini": {
-    "count": 53,
-    "last_used_at": "2026-04-03T05:21:21.796749+00:00"
+    "count": 54,
+    "last_used_at": "2026-04-04T13:11:15.959579+00:00"
   },
   "knn-machine-learning-gemini": {
-    "count": 201,
-    "last_used_at": "2026-04-03T12:22:23.270651+00:00"
+    "count": 204,
+    "last_used_at": "2026-04-04T13:11:02.028296+00:00"
   },
   "macd-gemini": {
     "count": 25,
