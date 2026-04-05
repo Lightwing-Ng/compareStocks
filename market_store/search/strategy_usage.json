@@ -24,16 +24,16 @@
     "last_used_at": "2026-03-30T12:12:49.432152+00:00"
   },
   "supertrend_ai_gemini": {
-    "count": 178,
-    "last_used_at": "2026-04-04T20:21:40.053926+00:00"
+    "count": 179,
+    "last_used_at": "2026-04-05T05:59:36.991824+00:00"
   },
   "lorentzian-classification-chatgpt": {
     "count": 226,
     "last_used_at": "2026-04-04T18:52:07.213188+00:00"
   },
   "lorentzian-classification-gemini": {
-    "count": 75,
-    "last_used_at": "2026-04-05T05:34:20.443102+00:00"
+    "count": 77,
+    "last_used_at": "2026-04-05T05:53:29.132982+00:00"
   },
   "knn-machine-learning-gemini": {
     "count": 225,
