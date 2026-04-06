@@ -4,16 +4,16 @@
     "last_used_at": "2026-03-24T06:45:11.364944+00:00"
   },
   "buy-and-hold": {
-    "count": 250,
-    "last_used_at": "2026-04-05T04:38:59.998235+00:00"
+    "count": 253,
+    "last_used_at": "2026-04-06T06:13:30.578447+00:00"
   },
   "macd": {
     "count": 37,
     "last_used_at": "2026-03-28T08:03:18.686466+00:00"
   },
   "supertrend-ai": {
-    "count": 196,
-    "last_used_at": "2026-04-05T16:19:29.531562+00:00"
+    "count": 221,
+    "last_used_at": "2026-04-06T07:10:32.101861+00:00"
   },
   "knn-machine-learning": {
     "count": 63,
@@ -32,12 +32,12 @@
     "last_used_at": "2026-04-04T18:52:07.213188+00:00"
   },
   "lorentzian-classification-gemini": {
-    "count": 77,
-    "last_used_at": "2026-04-05T05:53:29.132982+00:00"
+    "count": 93,
+    "last_used_at": "2026-04-06T07:20:35.003311+00:00"
   },
   "knn-machine-learning-gemini": {
-    "count": 225,
-    "last_used_at": "2026-04-04T20:33:29.966675+00:00"
+    "count": 229,
+    "last_used_at": "2026-04-06T06:15:17.982477+00:00"
   },
   "macd-gemini": {
     "count": 34,
