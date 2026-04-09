@@ -12,8 +12,8 @@
     "last_used_at": "2026-03-28T08:03:18.686466+00:00"
   },
   "supertrend-ai": {
-    "count": 362,
-    "last_used_at": "2026-04-08T06:05:57.278662+00:00"
+    "count": 365,
+    "last_used_at": "2026-04-09T03:33:04.227173+00:00"
   },
   "knn-machine-learning": {
     "count": 63,
@@ -28,20 +28,20 @@
     "last_used_at": "2026-04-07T06:05:27.179946+00:00"
   },
   "lorentzian-classification-chatgpt": {
-    "count": 227,
-    "last_used_at": "2026-04-07T03:22:15.974629+00:00"
+    "count": 228,
+    "last_used_at": "2026-04-08T12:17:06.690797+00:00"
   },
   "lorentzian-classification-gemini": {
-    "count": 136,
-    "last_used_at": "2026-04-08T05:55:45.019093+00:00"
+    "count": 139,
+    "last_used_at": "2026-04-08T12:16:54.829985+00:00"
   },
   "knn-machine-learning-gemini": {
     "count": 253,
     "last_used_at": "2026-04-07T08:07:13.827131+00:00"
   },
   "macd-gemini": {
-    "count": 34,
-    "last_used_at": "2026-04-04T15:43:37.119361+00:00"
+    "count": 35,
+    "last_used_at": "2026-04-08T12:17:42.223772+00:00"
   },
   "lorentzian-classification-grok": {
     "count": 14,
