@@ -3,7 +3,7 @@
 Canonical agent guide: [`docs/AGENTS.md`](docs/AGENTS.md)
 
 Shared UI synchronization ledger:
-`/Users/example/Desktop/SHARED_UI_SYNC.md`
+`/Users/lightwing/Desktop/SHARED_UI_SYNC.md`
 
 The following safety rules apply before reading the canonical guide:
 
