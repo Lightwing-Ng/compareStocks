@@ -1,9 +1,9 @@
 # Shared UI Layout Contract
 
-Documentation version: `v1.0.1`
+Documentation version: `v1.0.2`
 
 This is the normative spatial contract for the sibling projects
-`/Users/lightwing/Desktop/antigravity` and
+`/Users/lightwing/Desktop/worthward` and
 `/Users/lightwing/Desktop/agenticContext`. The two implementations may have
 different product surfaces, but shared shell geometry, token meanings, ownership
 boundaries, and acceptance tolerances are the same.
